@@ -1,0 +1,6 @@
+{
+  "name": "Pip's Midnight Nursery — Baby's First Website",
+  "description": "An interactive Track 1 portfolio for Pip the Skull Baby (Junior Dream Engineer at Midnight Nursery) featuring a Web Audio Lullaby Lab, eye-tracking portrait, rooftop dream delivery map, bedtime origin story, and the complete haX.baby 48-Hour Creative Director & Starter Code Kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
